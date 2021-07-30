@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <article title="Test-Script-Version.ps1">
+        <author>Claus-Ole Olsen</author>
+        <version>1.0.0</version>
+        <publishDate>2021-07-21</publishDate>
+        <downloadUrl>https://github.com/github-coo/PowerShell-Scripts</downloadUrl>
+        <description>Test for new script version</description>
+        <changeLog>Initial release</changeLog>
+    </article>
+    <article title="Check-UserSettings.ps1">
+        <author>Claus-Ole Olsen</author>
+        <version>1.0.0</version>
+        <publishDate>2021-07-21</publishDate>
+        <downloadUrl>https://github.com/github-coo/PowerShell-Scripts</downloadUrl>
+        <description>Get SfB Online settings</description>
+        <changeLog>Initial release</changeLog>
+    </article>
+</catalog>
